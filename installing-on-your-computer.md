@@ -69,18 +69,6 @@ After the installation is complete, you will be returned to the main screen to i
 
 ![Install WF Telerik Control Panel](images/install-telerik-control-panel-wf005.png)
 
-## Product Families and Subscriptions
-
-The Product Families and Subscriptions view is the main view of the application. This is the entry point
-that allows navigation to the product families and user subscriptions (if any). Each product family group
-represents its division products.
-
-![Subscriptions Telerik Control Panel](images/subscriptions-telerik-control-panel.png)
-
-The **Subscriptions View** presents the user subscriptions that expire in less than a year or that have
-expired less than a year ago:
-![Subscriptions View Telerik Control Panel](images/subscriptions-view-telerik-control-panel.png)
-
 ## See Also
 
 * [Telerik Control Panel Forum](https://www.telerik.com/forums/telerik-control-panel)
