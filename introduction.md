@@ -16,7 +16,7 @@ Are you tired of clicking around to find that installer you swear you downloaded
 
 ## Getting Started
 
-To get started, download the Telerik Control Panel from [telerik.com](https://www.telerik.com/) by visiting your [account page](https://www.telerik.com/account/default.aspx). The option to download and install the Control Panel is front and center on the page.
+To get started, download the Telerik Control Panel from [telerik.com](https://www.telerik.com/) by visiting your [account page](https://www.telerik.com/account/). The option to download and install the Control Panel is front and center on the page.
 
 ![Download Telerik Control Panel](images/download-telerik-control-panel.png)
 
