@@ -2,7 +2,7 @@
 title: Connection Problem Message
 page_title: Connection Problem Message - Telerik Control Panel
 description: How to hanel Connection Problem Message with the Telerik Control Panel.
-slug: title: connection-problem
+slug: connection-problem
 tags: controlpanel, connection, problem
 published: True
 position: 12 

@@ -2,7 +2,7 @@
 title: How to set up proxy
 page_title: How to set up proxy - Telerik Control Panel
 description: How to set up proxy with the Telerik Control Panel.
-slug: title: how-to-set-up-proxy
+slug: how-to-set-up-proxy
 tags: controlpanel, proxy, setup
 published: True
 position: 8 

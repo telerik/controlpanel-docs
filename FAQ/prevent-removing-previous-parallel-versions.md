@@ -2,7 +2,7 @@
 title: How to prevent the Progress Control Panel from removing previous parallel versions
 page_title: How to prevent the Progress Control Panel from removing previous parallel versions - Telerik Control Panel
 description: How to prevent the Progress Control Panel from removing previous parallel versions with the Telerik Control Panel.
-slug: title: how-to-prevent-removing-previous-parallel-versions
+slug: how-to-prevent-removing-previous-parallel-versions
 tags: controlpanel, parallel, versions, remove
 published: True
 position: 10 

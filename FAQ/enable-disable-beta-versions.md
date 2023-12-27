@@ -2,7 +2,7 @@
 title: How to enable or disable product Beta versions
 page_title: How to enable or disable product Beta versions - Telerik Control Panel
 description: How to enable or disable product Beta versions with the Telerik Control Panel.
-slug: title: how-to-enable-disable-beta-versions
+slug: how-to-enable-disable-beta-versions
 tags: controlpanel, enable, disable, beta
 published: True
 position: 11 

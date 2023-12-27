@@ -2,7 +2,7 @@
 title: How to change the Progress Control Panel default installation location
 page_title: How to change the Progress Control Panel default installation location - Telerik Control Panel
 description: How to change the Progress Control Panel default installation location with the Telerik Control Panel.
-slug: title: how-to-change-installation-location
+slug: how-to-change-installation-location
 tags: controlpanel, change, install, location
 published: True
 position: 9 

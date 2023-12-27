@@ -2,7 +2,7 @@
 title: How to repair product
 page_title: How to repair product - Telerik Control Panel
 description: How to repair a product with the Telerik Control Panel.
-slug: title: how-to-repair-product
+slug: how-to-repair-product
 tags: controlpanel, repair, product
 published: True
 position: 4 

@@ -2,7 +2,7 @@
 title: How to change the Progress Control Panel default download location
 page_title: How to change the Progress Control Panel default download location - Telerik Control Panel
 description: How to change the Progress Control Panel default download location with the Telerik Control Panel.
-slug: title: how-to-change-default-location
+slug: how-to-change-default-location
 tags: controlpanel, default, location
 published: True
 position: 6 

@@ -2,7 +2,7 @@
 title: How to uninstall product
 page_title: How to uninstall product - Telerik Control Panel
 description: How to uninstall a product with the Telerik Control Panel.
-slug: title: how-to-uninstall-product
+slug: how-to-uninstall-product
 tags: controlpanel, uninstall, product
 published: True
 position: 5 
