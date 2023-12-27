@@ -2,7 +2,7 @@
 title: How to turn features on/off?
 page_title: How to turn features on/off? - Telerik Control Panel
 description: How to turn features on/off with the Telerik Control Panel.
-slug: how-to-turn-features on-off
+slug: how-to-turn-features-on-off
 tags: controlpanel, turn off, turn on, features, product
 published: True
 position: 3 
