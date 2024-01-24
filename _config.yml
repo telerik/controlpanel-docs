@@ -32,9 +32,9 @@ google_analytics: UA-111455-1
 gcs_engine: '001595215763381649090:dzdv3_di-fm'
 gcs_api_key: 'AIzaSyC_1zrkB9jMkIDAJ6VBYGilbhOWEFZqQKA'
 
-edit_repo_url: https://github.com/telerik/dpl-docs/edit/master
+edit_repo_url: https://github.com/telerik/controlpanel-docs/edit/master
 product: "Telerik Control Panel"
-product_url: https://www.telerik.com/document-processing-libraries
+product_url: https://www.telerik.com
 
 # Available for names: 
 platforms: ["UI for ASP.NET MVC", "UI for ASP.NET AJAX", "UI for Blazor", "UI for WPF", "UI for WinForms", "UI for Silverlight", "UI for Xamarin", "UI for WinUI", "UI for ASP.NET Core", "UI for .NET MAUI"]
