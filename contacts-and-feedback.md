@@ -5,7 +5,7 @@ description: Install and update your favorite Telerik products with the Telerik 
 slug: contacts-and-feedback
 tags: contacts, feedback, controlpanel
 published: True
-position: 6 
+position: 8 
 ---
 
 ## Contacts
