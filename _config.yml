@@ -1,11 +1,9 @@
 # The public documentation URL, used for sitemap.xml
 url: "https://docs.telerik.com/devtools/control-panel"
-site_name: Telerik Control Panel
+site_name: Progress Telerik Control Panel
 # Exclude files which should not be in the output
 exclude: [README.md,Gemfile,Gemfile.lock,_assetsApi]
 exclude_navigation: [knowledge-base/*]
-
-
   
 ## List custom TOC order for folders here
 
@@ -16,15 +14,20 @@ exclude_navigation: [knowledge-base/*]
 ## The application virtual path
 baseurl: "/devtools/control-panel"
 
+## Assign layout and category per different paths
+defaults:
+-
+    scope:
+        path: ""
+    values:
+        layout: "documentation"
+        category: "default"
+
+
 
 
 # Feedback Form Google Sheet ID
 ff-sheet-id: 1HHlD_amgJPEh0GFobTkhTb9WBL9YbcKaYmlq-fCJb14
-
-
-
-
-
 
 # The google services configuration
 google_tag_manager: GTM-6X92
@@ -33,7 +36,7 @@ gcs_engine: '001595215763381649090:dzdv3_di-fm'
 gcs_api_key: 'AIzaSyC_1zrkB9jMkIDAJ6VBYGilbhOWEFZqQKA'
 
 edit_repo_url: https://github.com/telerik/controlpanel-docs/edit/master
-product: "Telerik Control Panel"
+product: "Progress Telerik Control Panel"
 product_url: https://www.telerik.com
 
 # Available for names: 
