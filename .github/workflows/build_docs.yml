@@ -1,0 +1,79 @@
+name: "template | build_documentation"
+
+on:
+  workflow_call:
+    inputs:
+      branch: 
+        description: "The operating docs branch."
+        required: true
+        type: string
+      docs_seed_branch:
+        description: "The operating docs-seed branch."
+        required: true
+        type: string
+      docs-dest-folder:
+        description: 'The folder where the documentation output after build.'
+        required: true
+        type: string
+      jekyll-config:
+        description: 'The jekyll config argument.'
+        required: true
+        type: string
+
+jobs:
+  build-docs:
+    runs-on: ubuntu-latest
+    env:
+      SSL_CERT_FILE: /etc/ssl/certs/ca-certificates.crt
+
+    container:
+      image: ghcr.io/telerik/kendo-build-jquery:dev
+      credentials:
+         username: ${{ github.actor }}
+         password: ${{ github.token }}
+      options: --user 1001 --cap-add=SYS_ADMIN --shm-size="4g"
+
+    defaults:
+      run:
+        # Use a login Bash shell to enable RVM
+        shell: bash -leo pipefail {0}
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ github.repository }}
+          path: ${{ github.workspace }}/controlpanel
+          ref: ${{ github.event.inputs.branch }}
+
+      - name: Check out docs-seed repository
+        uses: actions/checkout@v4
+        with: 
+          repository: telerik/docs-seed
+          path: docs-seed
+          ref: ${{ inputs.docs_seed_branch }}
+
+      - name: Copy docs-seed elements
+        run: sh copy_local.sh "../controlpanel" true
+        working-directory: docs-seed
+
+      - name: Build site
+        env:
+          RUBYOPT: -KU -E utf-8:utf-8
+        run: |
+          bundle --without development --path ~/gems
+          bundle exec jekyll build --config=${{ inputs.jekyll-config}}
+        working-directory: controlpanel
+
+      - name: Zip artifacts
+        uses: vimtor/action-zip@26a249fb00d43ca98dad77a4b3838025fc226aa1
+        with:
+          files: controlpanel/${{ inputs.docs-dest-folder }}
+          dest: site.zip
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v3.1.2
+        with:
+          name: site-artifacts
+          path: site.zip
+
