@@ -35,7 +35,7 @@ Creating an issue is great, but what we really love are pull requests. This is t
 
 ## Forums
 
-You can visit the [Telerik Control Panel Forum](https://www.telerik.com/forums/telerik-control-panel) and leave us a feedback.  Please notice that this method will take a bit longer to reach our documentation team. However, if you need a fast reply from our support team, leaving feedback in the forum guarantees a support number for your suggestions and that we will follow up on it.
+You can visit the [Telerik Control Panel Forum](https://www.telerik.com/forums/telerik-control-panel) and leave us feedback.  Please note that this method will take a bit longer to reach our documentation team. However, if you need a fast reply from our support team, leaving feedback in the forum guarantees a support number for your suggestions and that we will follow up on it.
 
 Thank you for your contribution to the Telerik Control Panel Documentation!
 
