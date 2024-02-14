@@ -1,18 +1,18 @@
 # The public documentation URL, used for sitemap.xml
-url: "https://docs.telerik.com/devtools/control-panel"
+url: "https://docs.telerik.com/controlpanel"
 site_name: Progress Telerik Control Panel
-# Exclude files which should not be in the output
+# Exclude files that should not be in the output
 exclude: [README.md,Gemfile,Gemfile.lock,_assetsApi]
 exclude_navigation: [knowledge-base/*]
   
 ## List custom TOC order for folders here
 
-     "faq":
+"faq":
         title: "Frequently Asked Questions"
         position: 7
 
 ## The application virtual path
-baseurl: "/devtools/control-panel"
+baseurl: "/controlpanel"
 
 ## Assign layout and category per different paths
 defaults:
@@ -53,11 +53,11 @@ footer:
 -
   title: "Getting Started"
   links:
-    "Getting Started": https://docs.telerik.com/devtools/control-panel/installing-on-your-computer
+    "Getting Started": https://docs.telerik.com/controlpanel/installing-on-your-computer
 -
   title: "Support Resources"
   links: 
-    "Documentation": https://docs.telerik.com/devtools/control-panel/introduction
+    "Documentation": https://docs.telerik.com/controlpanel/introduction
 -   
   title: "Community"
   links:
@@ -81,6 +81,6 @@ skip_tabbed_code: true
 safe: false
 markdown: MarkdownProcessor
 kramdown:
-    toc_levels: 2..3
+    toc_levels: 2..2
     smart_quotes: ["quot", "quot", "quot", "quot"]
     input: GFM
