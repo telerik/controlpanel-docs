@@ -1,10 +1,11 @@
-################################################################################
+
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 .dockerignore
 .editorconfig
 .jekyll-metadata
 .ruby-version
+/.asset-cache
 /.vs
 /_assets/
 /_build/
@@ -14,12 +15,15 @@
 /_includes/
 /_layouts/
 /_plugins/
+/_site
 /_templates/
 /_tools/RemoveHtmlExtensionFromApiRefSitemap/
 /docs-watcher/
 /favicon.ico
 /fonts/
+/LICENSE
 /styles/
+/to_delete.md
 _tempconfig.yml
 build-docs.sh
 CODEOWNERS
@@ -35,7 +39,3 @@ modify-config.sh
 search.html
 start-docs.sh
 watch.sh
-/_site
-/LICENSE
-/to_delete.md
-/.asset-cache
