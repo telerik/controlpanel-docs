@@ -28,12 +28,12 @@ defaults:
 
 
 # Feedback Form Google Sheet ID
-ff-sheet-id: 1HHlD_amgJPEh0GFobTkhTb9WBL9YbcKaYmlq-fCJb14
+ff-sheet-id: 6730fe7e-c8d6-4af6-b9aa-00395f10875b
 
 # The google services configuration
 google_tag_manager: GTM-6X92
 google_analytics: UA-111455-1
-gcs_engine: '001595215763381649090:dzdv3_di-fm'
+gcs_engine: '47b2bdc9d347d46aa'
 gcs_api_key: 'AIzaSyC_1zrkB9jMkIDAJ6VBYGilbhOWEFZqQKA'
 
 edit_repo_url: https://github.com/telerik/controlpanel-docs/edit/master
