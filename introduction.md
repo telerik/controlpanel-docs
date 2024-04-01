@@ -1,18 +1,42 @@
 ---
 title: Introduction
-page_title: Overview - Telerik Control Panel Documentation
+page_title: Overview - Progress Control Panel Documentation
 description: Install and update your favorite Telerik products with the Telerik Control Panel.
 slug: controlpanel-introduction
-tags: overview, controlpanel
+tags: overview, controlpanel, telerik, progress
 published: True
 position: 0 
 ---
 
-# Welcome to Telerik Control Panel
+# Welcome to Progress Control Panel
 
-Are you tired of clicking around to find that installer you swear you downloaded last week, only to give up and download it again? Are you annoyed by pop up reminders, but turning them off means you may forget to update your controls? Well, worry no more! We've made it easier than ever to install and update your favorite Telerik products with the Telerik Control Panel.
+**Progress Control Panel** is a standalone Windows desktop application that offers a range of features that enable users to monitor and manage their Telerik products and installations effectively.
 
 ![Telerik Control Panel](images/telerik-control-panel-introduction.png)
+
+## Key Features:
+
+* Viewing existing Telerik product installations
+
+* Downloading new Telerik products and updates
+
+* Installing, uninstalling, or repairing Telerik products
+
+The Progress Control Panel is an essential tool for developers and other software professionals who use Telerik products in their projects. With its robust features, intuitive interface, and reliable performance, it can help users streamline their workflows, minimize downtime, and ensure optimal performance for their software applications.
+
+## Supported Products
+
+The control panel provides a user-friendly interface that allows users to easily navigate and perform various operations. It supports a wide range of Telerik products, including UI components, developer tools, and platform-specific solutions for web, desktop, and mobile applications.
+
+|Product||
+|----|----|
+|[Telerik UI for WinForms](https://docs.telerik.com/devtools/winforms/introduction)|[Installing from Progress Control Panel](https://docs.telerik.com/devtools/winforms/installation-and-upgrades/installing-from-progress-control-panel)|
+|[Telerik UI for WPF](https://docs.telerik.com/devtools/wpf/introduction)|[Installing from Progress Control Panel](https://docs.telerik.com/devtools/wpf/getting-started/installation/installation-installing-from-progress-control-panel)|
+|[Telerik Reporting](https://docs.telerik.com/reporting/introduction)|[Installation Approaches for Telerik Reporting](https://docs.telerik.com/reporting/getting-started/installation/installation-approaches)|
+|[Telerik UI for .NET MAUI](https://docs.telerik.com/devtools/maui/introduction)||
+|Telerik UI for WinUI||
+|[Telerik UI for ASP.NET Core](https://docs.telerik.com/aspnet-core/introduction)||
+|[Telerik UI for ASP.NET AJAX](https://docs.telerik.com/devtools/aspnet-ajax/introduction)||
 
 ## Getting Started
 
