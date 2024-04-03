@@ -1,7 +1,7 @@
 ---
 title: Introduction
 page_title: Overview - Progress Control Panel Documentation
-description: Install and update your favorite Telerik products with the Telerik Control Panel.
+description: Install and update your favorite Telerik products with the Progress Control Panel.
 slug: controlpanel-introduction
 tags: overview, controlpanel, telerik, progress
 published: True
@@ -12,7 +12,7 @@ position: 0
 
 **Progress Control Panel** is a standalone Windows desktop application that offers a range of features that enable users to monitor and manage their Telerik products and installations effectively.
 
-![Telerik Control Panel](images/telerik-control-panel-introduction.png)
+![Progress Control Panel](images/telerik-control-panel-introduction.png)
 
 ## Key Features:
 
@@ -54,14 +54,7 @@ For any issues you might encounter while working with Progress Control Panel, us
 
 * You may still need a tailor-made solution for your project. In such cases, go straight to [Progress Services](https://www.progress.com/services).
 
-## Getting Started
-
-To get started, download the Telerik Control Panel from [telerik.com](https://www.telerik.com/) by visiting your [account page](https://www.telerik.com/account/). The option to download and install the Control Panel is front and center on the page.
-
-![Download Telerik Control Panel](images/download-telerik-control-panel.png)
-
-
-## Improving the Telerik Control Panel Documentation
+## Improving the Progress Control Panel Documentation
 
 We believe that the documentation for a product is at its best when the content is a collaboration between the builders and consumers of that product. Everybody can play a role in making our documentation better and we encourage you to help us with that task in the way that you choose:
 
@@ -73,13 +66,15 @@ If you find an issue with our docs that need to be addressed, the best way to le
 
 Creating an issue is great, but what we really love are pull requests. This is the most direct method.  So, if you find an issue in the docs, or even feel like creating new content, we'd be happy to have your contributions! The basic steps are that you fork our documentation and submit a pull request. That way you may contribute to exactly where you found the error.  After that, our technical writing team just needs to approve your change request. Please use only standard markdown. 
 
-Thank you for your contribution to the Telerik Control Panel Documentation!
+Thank you for your contribution to the Progress Control Panel Documentation!
 
 ## Next Steps
 
+* [Installing On Your Computer]({%slug controlpanel-installing-on-your-computer%})
+* [Installation progress and Troubleshooting]({%slug installation-progress-and-troubleshooting%}) 
 
 ## See Also
 
-* [Telerik Control Panel Forum](https://www.telerik.com/forums/telerik-control-panel)
-* [Progress® Telerik® Control Panel Feedback Portal](https://feedback.telerik.com/controlpanel) 
-* [Essential support](http://www.telerik.com/support) 
+* [Installing On Your Computer]({%slug controlpanel-installing-on-your-computer%})
+* [Installation progress and Troubleshooting]({%slug installation-progress-and-troubleshooting%}) 
+* [Product Families and Subscriptions]({%slug product-families-and-subscriptions%})
