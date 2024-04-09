@@ -27,8 +27,8 @@ defaults:
 
 
 
-# Feedback Form Google Sheet ID
-ff-sheet-id: 6730fe7e-c8d6-4af6-b9aa-00395f10875b
+# Feedback Form Product Code
+productCode: CP
 
 # The google services configuration
 google_tag_manager: GTM-6X92
