@@ -5,18 +5,21 @@ description: Install and update your favorite Telerik products with the Telerik 
 slug: preview
 tags: product, preview, controlpanel
 published: True
-position: 4 
+position: 2
 ---
 
 # Preview
 
-After you have selected some product actions, they are displayed in the preview step for final
-arrangement. The preview step provides feature selection option, install location selection option and
-information about disk cost estimations. On this step you should accept the license agreement too.
+After you have selected some product actions, they are displayed in the preview step for final arrangement. The preview step provides:
+
+* **Feature selection option** - The editable features include all Visual Studio integration features for a product.
+* **Install location selection option** - Prior to running the installation, you can change the installation folder for this run.
+* **Disk cost estimations**
+* **License Agreement**
 
 ![Preview Telerik Control Panel](images/preview-telerik-control-panel.png)
 
-## Feature selection 
+<!-- ## Feature selection 
 
 The Progress Control Panel provides a feature selection option. The editable features include all Visual
 Studio integration features for a product (VS2012, VS2013, VS2015, VS2017, VS2019 and VS2022) and the Local Demos feature. You can customize the installation by including and excluding features for each product.
@@ -102,7 +105,7 @@ account provided will be selected as the user used for connecting.
 If connection with the database cannot be established a message informing that some of the demo
 reports may not run correctly is shown.
 
-![Server Validation Failed Telerik Control Panel](images/server-validation-failes-reporting-telerik-control-panel.png)
+![Server Validation Failed Telerik Control Panel](images/server-validation-failes-reporting-telerik-control-panel.png) -->
 
 ## See Also
 
