@@ -1,6 +1,6 @@
 ---
-title: Installation progress and Troubleshooting  
-page_title: Installation progress and Troubleshooting - Telerik Control Panel
+title: Installation Progress and Troubleshooting  
+page_title: Installation Progress and Troubleshooting - Telerik Control Panel
 description: Install and update your favorite Telerik products with the Telerik Control Panel.
 slug: installation-progress-and-troubleshooting
 tags: install, progress, controlpanel, troubleshooting

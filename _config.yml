@@ -11,9 +11,9 @@ navigation:
   "simplified-interface-guide":
           title: "Simplified Interface Guide"
           position: 2
-  "FAQ":
-          title: "Frequently Asked Questions"
-          position: 7
+  "how-to":
+          title: "How-To"
+          position: 3
 
 ## The application virtual path
 baseurl: "/controlpanel"

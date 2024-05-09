@@ -5,13 +5,12 @@ description: Install and update your favorite Telerik products with the Telerik 
 slug: contacts-and-feedback
 tags: contacts, feedback, controlpanel
 published: True
-position: 8 
+position: 4 
 ---
 
 ## Contacts
 
-You can find the Progress team contacts by clicking on the contacts button in the top right corner of the
-application.
+You can find the Progress team contacts by clicking on the contacts button in the top right corner of the application.
 
 ![Contacts Telerik Control Panel](images/contacts-telerik-control-panel.png)
 
