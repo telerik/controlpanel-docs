@@ -30,17 +30,16 @@ The control panel provides a user-friendly interface that allows users to easily
 
 |Product||
 |----|----|
-|[Telerik UI for WinForms](https://docs.telerik.com/devtools/winforms/introduction)|[Installing from Progress Control Panel](https://docs.telerik.com/devtools/winforms/installation-and-upgrades/installing-from-progress-control-panel)|
-|[Telerik UI for WPF](https://docs.telerik.com/devtools/wpf/introduction)|[Installing from Progress Control Panel](https://docs.telerik.com/devtools/wpf/getting-started/installation/installation-installing-from-progress-control-panel)|
-|[Telerik Reporting](https://docs.telerik.com/reporting/introduction)|[Installation Approaches for Telerik Reporting](https://docs.telerik.com/reporting/getting-started/installation/installation-approaches)|
-|[Telerik Report Server](https://docs.telerik.com/report-server/introduction)||
-|[Telerik UI for .NET MAUI](https://docs.telerik.com/devtools/maui/introduction)||
-|[Telerik UI for WinUI](https://docs.telerik.com/devtools/winui/introduction)||
-|[Telerik UI for ASP.NET Core](https://docs.telerik.com/aspnet-core/introduction)||
+|[Telerik UI for .NET MAUI](https://docs.telerik.com/devtools/maui/introduction)|[Telerik Reporting](https://docs.telerik.com/reporting/introduction)|
+|[Telerik UI for WinUI](https://docs.telerik.com/devtools/winui/introduction)|[Telerik Report Server](https://docs.telerik.com/report-server/introduction)|
+|[Telerik UI for WinForms](https://docs.telerik.com/devtools/winforms/introduction)|[Telerik JustMock](https://docs.telerik.com/devtools/justmock/introduction)|
+|[Telerik UI for WPF](https://docs.telerik.com/devtools/wpf/introduction)|[Test Studio](https://docs.telerik.com/teststudio/welcome)|
+|[Telerik UI for Blazor](https://docs.telerik.com/blazor-ui/introduction)|[Test Studio Dev Edition](https://docs.telerik.com/devtools/teststudiodev/introduction)|
+|[Telerik UI for ASP.NET Core](https://docs.telerik.com/aspnet-core/introduction)|[Testing Framework](https://docs.telerik.com/teststudio/testing-framework)|
 |[Telerik UI for ASP.NET AJAX](https://docs.telerik.com/devtools/aspnet-ajax/introduction)||
 |[Telerik UI for ASP.NET MVC](https://docs.telerik.com/aspnet-mvc/introduction)||
-|[Telerik UI for Blazor](https://docs.telerik.com/blazor-ui/introduction)||
-|[Kendo UI for jQuery](https://docs.telerik.com/kendo-ui/introduction)||
+|[Kendo UI](https://docs.telerik.com/kendo-ui/introduction)||
+|[UI for Xamarin](https://docs.telerik.com/devtools/xamarin/introduction)||
 
 ## Getting Support
 
