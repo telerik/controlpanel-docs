@@ -48,7 +48,7 @@ For any issues you might encounter while working with Progress Control Panel, us
 
 * Commercial Telerik license holders and active trialists can take advantage of our outstanding customer support delivered by the developers building the library. To submit a support ticket, use the [Telerik dedicated support](https://www.telerik.com/account/support-tickets/) system.
 
-* [Progress Control Panel forum](https://www.telerik.com/forums/telerik-control-panel) is a part of the free support you can get from the community and from the Telerik team on all kinds of general issues. Please note that this method will take a bit longer to reach our documentation team. However, if you need a fast reply from our support team, leaving feedback in the forum guarantees a support number for your suggestions and that we will follow up on it.
+* [Progress Control Panel forum](https://www.telerik.com/forums/telerik-control-panel) is a part of the free support you can get from the community and from the Telerik team on all kinds of general issues. Please note that this method will take a bit longer to reach our support team. If you need a fast reply, leaving feedback in the forum guarantees a support number for your suggestions and that we will follow up on it.
 
 * [Progress Control Panel feedback portal](https://feedback.telerik.com/controlpanel) provides information on the features in discussion and also the planned ones for release. You can submit any related bug reports there. 
 
