@@ -36,6 +36,7 @@ The Control Panel allows developers to manage the installation and updates of a 
 |Telerik UI for ASP.NET Core|[UI for ASP.NET Core documentation](https://docs.telerik.com/aspnet-core/introduction)|
 |Telerik UI for ASP.NET MVC|[UI for ASP.NET MVC documentation](https://docs.telerik.com/aspnet-mvc/introduction)|
 |Telerik UI for Blazor|[UI for Blazor documentation](https://docs.telerik.com/blazor-ui/introduction)|
+|Telerik UI for Xamarin|[UI for Xamarin documentation](https://docs.telerik.com/devtools/xamarin/introduction)|
 |Telerik UI for WinForms|[Installing WinForms from Progress Control Panel](https://docs.telerik.com/devtools/winforms/installation-and-upgrades/installing-from-progress-control-panel)|
 |Telerik UI for WPF|[Installing WPF from Progress Control Panel](https://docs.telerik.com/devtools/wpf/getting-started/installation/installation-installing-from-progress-control-panel)|
 |Telerik UI for WinUI|[UI for WinUI documentation](https://docs.telerik.com/devtools/winui/introduction)|
@@ -68,3 +69,4 @@ We believe that the documentation for a product is at its best when the content 
 * [Installing On Your Computer]({%slug controlpanel-installing-on-your-computer%})
 * [Installation progress and Troubleshooting]({%slug installation-progress-and-troubleshooting%}) 
 * [Product Families and Subscriptions]({%slug product-families-and-subscriptions%})
+
