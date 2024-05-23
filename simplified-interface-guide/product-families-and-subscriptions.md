@@ -22,7 +22,7 @@ The main view allows navigation to the product families and user subscriptions (
 
 ## Subscriptions View
 
-The **Subscriptions View** is set to display license information for a period ranging from one year and three months in the past to one year and three months in the future. This setup is designed to notify you of any licenses that are about to expire. If your license is valid and not close to expiring, it won't be listed. The purpose of the subscriptions view is to serve as a reminder and help you organize your renewals. Additionally, the renewal process helps you maintain access to the products without having to manually repurchase them each time.
+The **Subscriptions** view displays information about license expiration date. The information is displayed only for those licenses that are about to expire in 15 months or that have expired in the last 15 months. The main purpose is to remind about expiring licenses and to provide the possibility to renew them.
 
 *Without subscriptions*
 
