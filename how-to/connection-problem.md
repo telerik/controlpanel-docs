@@ -8,7 +8,7 @@ published: True
 position: 12 
 ---
 
-# I am getting a connection problem message. Why?
+# connection problem message
 
 The Connection Problem screen pops up every time the installer hits a connectivity problem.
 

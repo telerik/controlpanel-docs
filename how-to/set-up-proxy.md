@@ -1,6 +1,6 @@
 ---
-title: How to set up proxy
-page_title: How to set up proxy - Telerik Control Panel
+title: Setting up Proxy
+page_title: Setting up Proxy - Telerik Control Panel
 description: How to set up proxy with the Telerik Control Panel.
 slug: how-to-set-up-proxy
 tags: controlpanel, proxy, setup
@@ -8,7 +8,7 @@ published: True
 position: 8 
 ---
 
-# How to set up proxy?
+# Setting up Proxy
 
 The Progress Control Panel requires a working internet connection. If you need to set up proxy to connect to the internet, you need to open the Options menu.
 

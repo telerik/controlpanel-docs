@@ -1,14 +1,14 @@
 ---
-title: How to delete the Progress Control Panel installer packages cache
+title: Deleting the Progress Control Panel's installer packages cache
 page_title: How to delete the Progress Control Panel installer packages cache - Telerik Control Panel
-description: How to delete the Progress Control Panel installer packages cache? with the Telerik Control Panel.
+description: Deleting the Progress Control Panel's installer packages cache? with the Telerik Control Panel
 slug: how-to-clear-cache
 tags: controlpanel, clear, cache
 published: True
 position: 7 
 ---
 
-# How to delete the Progress Control Panel installer packages cache?
+# Deleting the Progress Control Panel installer packages cache?
 
 You can clear the installer packages in the download folder by opening the Options menu as shown below.
 
@@ -24,7 +24,7 @@ Click **DELETE CACHED INSTALLER PACKAGES** and confirm the operation.
 
 Removing the cached installer packages will lead to disabling the **DELETE CACHED INSTALLER PACKAGES** button if the operation succeeds or a message will be shown in the case of failure.
 
-![Confirumed Delete Cache](images/confirmed-delete-cache.png)
+![Confirmed Delete Cache](images/confirmed-delete-cache.png)
 
 ![Failure Delete Cache](images/failure-delete-cache.png) 
 

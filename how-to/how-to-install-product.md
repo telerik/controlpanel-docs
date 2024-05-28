@@ -1,6 +1,6 @@
 ---
-title: How to install product
-page_title: How to install product - Telerik Control Panel
+title: Installing Telerik Products
+page_title: Installing Telerik Products - Telerik Control Panel
 description: Install and update your favorite Telerik products with the Telerik Control Panel.
 slug: controlpanel-how-to-install-product
 tags: controlpanel, install, product
@@ -8,7 +8,7 @@ published: True
 position: 1 
 ---
 
-# How to install product
+# Installing Telerik Products
 
 To install a product through the Progress Control Panel you need to sign in first. After successful authentication you will see the available products for your account.
 

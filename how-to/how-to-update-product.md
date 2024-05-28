@@ -1,6 +1,6 @@
 ---
-title: How to update product
-page_title: How to update product - Telerik Control Panel
+title: Updating Telerik Products
+page_title: Updating Telerik Products - Telerik Control Panel
 description: Install and update your favorite Telerik products with the Telerik Control Panel.
 slug: controlpanel-how-to-update-product
 tags: controlpanel, update, product
@@ -8,7 +8,7 @@ published: True
 position: 2 
 ---
 
-# How to update product
+# Updating Telerik Products
 
 To update an installed product through the Progress Control Panel you need to sign in first. After successful authentication you will see the available products for your account, both installed and available to install.
 

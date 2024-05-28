@@ -1,14 +1,14 @@
 ---
-title: How to enable or disable product Beta versions
+title: Enabling or Disabling Product's Beta Versions
 page_title: How to enable or disable product Beta versions - Telerik Control Panel
-description: How to enable or disable product Beta versions with the Telerik Control Panel.
+description: Enabling or Disabling Product's Beta Versions with the Telerik Control Panel
 slug: how-to-enable-disable-beta-versions
 tags: controlpanel, enable, disable, beta
 published: True
 position: 11 
 ---
 
-# How to enable or disable product Beta versions?
+# Enabling or Disabling Product's Beta Versions
 
 By default the Progress Control Panel shows the latest Beta version of each product if available. To change this, you should open the Options menu as shown below.
 

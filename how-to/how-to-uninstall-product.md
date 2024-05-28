@@ -1,6 +1,6 @@
 ---
-title: How to uninstall product
-page_title: How to uninstall product - Telerik Control Panel
+title: Uninstalling Telerik Products
+page_title: HUninstalling Telerik Products - Telerik Control Panel
 description: How to uninstall a product with the Telerik Control Panel.
 slug: how-to-uninstall-product
 tags: controlpanel, uninstall, product
@@ -8,7 +8,7 @@ published: True
 position: 5 
 ---
 
-# How to uninstall a product
+# Uninstalling Telerik Products
 
 To uninstall an installed product through the Progress Control Panel you need to sign in first. After successful authentication you will see the available products for your account.
 

@@ -1,14 +1,14 @@
 ---
-title: How to change the Progress Control Panel default download location
+title: Changing the Progress Control Panel's Default Download Location
 page_title: How to change the Progress Control Panel default download location - Telerik Control Panel
-description: How to change the Progress Control Panel default download location with the Telerik Control Panel.
+description: Changing the Progress Control Panel's Default Download Location with the Telerik Control Panel
 slug: how-to-change-default-location
 tags: controlpanel, default, location
 published: True
 position: 6 
 ---
 
-# How to change the Progress Control Panel default download location
+# Changing the Progress Control Panel Default Download Location
 
 By default the Progress Control Panel downloads all installation packages in *%programdata%\Progress\Installer\Downloads*. One can change this by opening the **Options** menu as shown below.
 

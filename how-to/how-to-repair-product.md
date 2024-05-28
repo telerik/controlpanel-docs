@@ -1,14 +1,14 @@
 ---
-title: How to repair product
-page_title: How to repair product - Telerik Control Panel
-description: How to repair a product with the Telerik Control Panel.
+title: Repairing Telerik Products
+page_title: Repairing Telerik Products - Telerik Control Panel
+description: Repairing Telerik Products with the Telerik Control Panel.
 slug: how-to-repair-product
 tags: controlpanel, repair, product
 published: True
 position: 4 
 ---
 
-# How to repair a product
+# Repairing Telerik Products
 
 To repair an installed product through the Progress Control Panel you need to sign in first. After successful authentication you will see the available products for your account.
 

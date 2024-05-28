@@ -1,6 +1,6 @@
 ---
-title: How to turn features on/off?
-page_title: How to turn features on/off? - Telerik Control Panel
+title: Turning Features On/Off
+page_title: Turning Features On/Off - Telerik Control Panel
 description: How to turn features on/off with the Telerik Control Panel.
 slug: how-to-turn-features-on-off
 tags: controlpanel, turn off, turn on, features, product
@@ -8,7 +8,7 @@ published: True
 position: 3 
 ---
 
-# How to turn features on/off?
+# Turning Features On/Off
 
 To modify an installed product through the Progress Control Panel you need to sign in first. After successful authentication you will see the available products for your account.
 
