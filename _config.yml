@@ -8,9 +8,6 @@ exclude_navigation: [knowledge-base/*]
 
 navigation: 
 ## List custom TOC order for folders here
-  "simplified-interface-guide":
-          title: "Simplified Interface Guide"
-          position: 2
   "how-to":
           title: "How-To"
           position: 3
