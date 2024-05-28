@@ -28,7 +28,7 @@ Click **PROCEED** to continue.
 
 ![Turn On Off Features Continue Telerik Product](images/turn-on-off-features-continue.png)
 
-After you have selected which products to modify, in the [products view]({%slug product-families-and-subscriptions%}) choose which features to turn on or off. Then, click **PROCEED** and the installation will start. After the installation has completed, you will be returned to the products view.  
+After you have selected which products to modify, in the [products view]({%slug simplified-interface-guide%}) choose which features to turn on or off. Then, click **PROCEED** and the installation will start. After the installation has completed, you will be returned to the products view.  
 
 ## See Also
 

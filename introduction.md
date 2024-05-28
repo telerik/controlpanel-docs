@@ -62,11 +62,11 @@ We believe that the documentation for a product is at its best when the content 
 ## Next Steps
 
 * [Installing On Your Computer]({%slug controlpanel-installing-on-your-computer%})
-* [Installation progress and Troubleshooting]({%slug installation-progress-and-troubleshooting%}) 
+* [Installation progress and Troubleshooting]({%slug simplified-interface-guide%}) 
 
 ## See Also
 
 * [Installing On Your Computer]({%slug controlpanel-installing-on-your-computer%})
-* [Installation progress and Troubleshooting]({%slug installation-progress-and-troubleshooting%}) 
-* [Product Families and Subscriptions]({%slug product-families-and-subscriptions%})
+* [Installation progress and Troubleshooting]({%slug simplified-interface-guide%}) 
+* [Product Families and Subscriptions]({%slug simplified-interface-guide%})
 

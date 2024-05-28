@@ -14,11 +14,11 @@ To update an installed product through the Progress Control Panel you need to si
 
 ![Update Telerik Product](images/update-product.png)
 
-On the left side of the [products view]({%slug product-families-and-subscriptions%}), select product(s) to be updated by checking the **UPDATE** checkbox of each product. Note that only products that have updates available will have the **UPDATE** option. **UPDATE ALL** option is available too. After you have selected the products to be updated, click **PROCEED**.
+On the left side of the [products view]({%slug simplified-interface-guide%}), select product(s) to be updated by checking the **UPDATE** checkbox of each product. Note that only products that have updates available will have the **UPDATE** option. **UPDATE ALL** option is available too. After you have selected the products to be updated, click **PROCEED**.
  
 ![Update Progress Telerik Product](images/update-progress-product.png)
 
-After you have selected which products to update, in the [preview view]({%slug preview%}) you can configure the product features and the installation folder. In order to run the installation, you should accept the license agreement. Then, click **PROCEED** and the installation will start. 
+After you have selected which products to update, in the [preview view]({%slug simplified-interface-guide%}) you can configure the product features and the installation folder. In order to run the installation, you should accept the license agreement. Then, click **PROCEED** and the installation will start. 
 
 ![Update Installing Telerik Product](images/update-installing-product.png)
 

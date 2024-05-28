@@ -14,11 +14,11 @@ To install a product through the Progress Control Panel you need to sign in firs
 
 ![Install Telerik Product](images/install-product.png)
  
-On the right side of the [products view]({%slug product-families-and-subscriptions%}), select product(s) to be installed by checking the install checkbox of each product and click **PROCEED**. **INSTALL ALL** option is available too.
+On the right side of the [products view]({%slug simplified-interface-guide%}), select product(s) to be installed by checking the install checkbox of each product and click **PROCEED**. **INSTALL ALL** option is available too.
 
 ![Install Progress Telerik Product](images/install-progress-product.png)
 
-After you have selected which products to install, in the [preview view]({%slug preview%}) you can configure the product features and the installation folder. In order to run the installation, you should accept the license agreement. Then, click **PROCEED** and the installation will start. After the installation has completed, you will be returned to the products view.
+After you have selected which products to install, in the [preview view]({%slug simplified-interface-guide%}) you can configure the product features and the installation folder. In order to run the installation, you should accept the license agreement. Then, click **PROCEED** and the installation will start. After the installation has completed, you will be returned to the products view.
 
 ## See Also
 

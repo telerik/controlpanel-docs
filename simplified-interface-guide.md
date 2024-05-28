@@ -2,7 +2,7 @@
 title: Simplified Interface Guide
 page_title: Simplified Interface Guide - Telerik Control Panel
 description: Install and update your favorite Telerik products with the Telerik Control Panel.
-slug: simplified-interface-guide.md
+slug: simplified-interface-guide
 tags: subscriptions, controlpanel
 published: True
 position: 2

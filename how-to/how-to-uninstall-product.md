@@ -14,7 +14,7 @@ To uninstall an installed product through the Progress Control Panel you need to
 
 ![All Products View](images/repair-product.png)
 
-Choose a product on the left to be uninstalled and click on it to open the [product details]({%slug product-details%}) view.
+Choose a product on the left to be uninstalled and click on it to open the [product details]({%slug simplified-interface-guide%}) view.
 
 ![Remove Products View](images/remove-product.png)
 

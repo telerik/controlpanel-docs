@@ -14,13 +14,13 @@ To repair an installed product through the Progress Control Panel you need to si
 
 ![Repair Telerik Product](images/repair-product.png)
 
-Choose a product on the left to be repaired and click on it to open the product [details view]({%slug product-details%}).
+Choose a product on the left to be repaired and click on it to open the product [details view]({%slug simplified-interface-guide%}).
  
 ![Choose Telerik Product](images/choose-product.png)
 
 Check the **REPAIR** checkbox and close the view.
 
-If there are parallel versions of a product installed on the machine a click on the product to open the [product details]({%slug product-details%}) view should be performed in order to repair. Expand the *All Versions* view in order to select a version to repair. Select the version that you would like to repair and close the view.
+If there are parallel versions of a product installed on the machine a click on the product to open the [product details]({%slug psimplified-interface-guide%}) view should be performed in order to repair. Expand the *All Versions* view in order to select a version to repair. Select the version that you would like to repair and close the view.
 
 ![Repair Version Telerik Product](images/repair-version-product.png)
 
