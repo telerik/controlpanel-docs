@@ -20,7 +20,7 @@ Choose a product on the left to be repaired and click on it to open the product 
 
 Check the **REPAIR** checkbox and close the view.
 
-If there are parallel versions of a product installed on the machine a click on the product to open the [product details]({%slug psimplified-interface-guide%}) view should be performed in order to repair. Expand the *All Versions* view in order to select a version to repair. Select the version that you would like to repair and close the view.
+If there are parallel versions of a product installed on the machine a click on the product to open the [product details]({%slug simplified-interface-guide%}) view should be performed in order to repair. Expand the *All Versions* view in order to select a version to repair. Select the version that you would like to repair and close the view.
 
 ![Repair Version Telerik Product](images/repair-version-product.png)
 
