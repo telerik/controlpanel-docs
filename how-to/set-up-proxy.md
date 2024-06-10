@@ -19,10 +19,12 @@ In the Options dialog, the default proxy settings are displayed in the PROXY SET
 ![Proxy Settings](images/proxy-settings.png)
 
 The default behavior could be changed by unchecking the **USE INTERNET EXPLORER PROXY SETTINGS** checkbox. After doing so, you will be requested to add the proxy settings manually.
+In order to change the default proxy settings, uncheck the USE INTERNET EXPLORER PROXY SETTINGS checkbox and the proxy details section will appear. The PROXY ADDRESS and PORT fields are required if you choose to enter proxy settings manually.
 
 ![Proxy Address](images/proxy-address.png)
 
 In case the proxy requires authentication, the **REQUIRES AUTHENTICATION** checkbox must be checked and the credential section will appear.
+The USERNAME field is required if the authentication option is enabled. You can restore the default proxy settings any time by selecting the RESET option on the right.
 
 ![Proxy Authentication](images/proxy-authentication.png)
 

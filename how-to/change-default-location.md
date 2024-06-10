@@ -20,6 +20,18 @@ After the Options dialog pops up, in the **DOWNLOAD SETTINGS** section you will 
 
 In order to change the download location, click BROWSE and navigate to the desired folder. The default download location can be set back any time by clicking RESET.
 
+The default download location could be changed by clicking BROWSE and navigating to the desired folder. In order to reset to the default download location, click RESET. The default download location could also be cleaned by clicking DELETE CACHED INSTALLER PACKAGES. Clicking this button leads to a confirmation question: 
+
+![Delete Cached Packages Telerik Control Panel](images/delete-cached-packages-telerik-control-panel.gif)
+
+If the download location does not contain any installer packages the state of DELETE CACHED
+INSTALLERS PACKAGES is disabled:
+
+![Disabled Delete Telerik Control Panel](images/disabled-delete-telerik-control-panel.png)
+
+If some of the cached installers packages cannot be removed the
+state of the button remains enabled.
+
 ## See Also
 
 * [Telerik Control Panel Forum](https://www.telerik.com/forums/telerik-control-panel)
