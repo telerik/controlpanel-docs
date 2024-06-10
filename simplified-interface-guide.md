@@ -96,11 +96,11 @@ If you have licenses that are nearing expiration or have already expired, the su
 
 At the top, there are 3 categories:
 
-"All" -- showing all subscriptions
+* **"All"** -- showing all subscriptions
 
-"Expiring" -- showing About to Expire subscriptions
+* **"Expiring"** -- showing About to Expire subscriptions
 
-"Expired" -- showing all expired subscriptions
+* **"Expired"** -- showing all expired subscriptions
 
 You can continue to use the products included in your subscription for as long as you require. Subscription expiry means that you will no longer be issued any product updates or new product releases. It is possible to renew your subscription at a lower cost than buying a new license. Early Renewals offer the best value, and must be purchased before your subscription expires. Standard Renewals can be purchased up to 60 days after expiry. Welcome Back Renewals are available more than 60 days after expiry.
 Every subscription which is covered by the "Renewal" subscription classifier has a "RENEW" action, which opens the generic Telerik renewal page. You can find more detailed information about renewing licenses using the [License-renewals](https://www.telerik.com/purchase/license-renewals) page.
