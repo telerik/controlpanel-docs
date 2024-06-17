@@ -8,7 +8,11 @@ published: True
 position: 2
 ---
 
-# Main View
+# Simplified Interface Guide
+
+This simplified user interface guide walks you through the primary screens in the Telerik Control Panel and describes the main tasks you can perform using the tool.
+
+## Main View
 
 The main view of the Control Panel is the starting point that lets you navigate to all menus and tools in the application:
 
@@ -42,7 +46,7 @@ To display only the Telerik & Kendo UI tools with a specific license, use the bu
 
 ### Showing the Product Details
 
-To see more information about a specific product or a tool, click the tile with the desired product. This allows you to see the installation state, license, version, online resources, and available actions.
+To see more information about a specific product or tool, click the tile with the desired product. This allows you to see the installation state, license, version, online resources, and available actions.
 
 >tip By clicking on an installed product, you will also see the latest beta version (if a beta version is available).
 
@@ -57,7 +61,7 @@ The Subscriptions view reminds you about licenses that need renewal. The informa
 
 ![Subscriptions View Telerik Control Panel](images/subscriptions-view-telerik-control-panel.png)
 
-For more information, see [License Renewals](https://www.telerik.com/purchase/license-renewals) page.
+For more information, see the [License Renewals](https://www.telerik.com/purchase/license-renewals) page.
 
 ## See Also
 
