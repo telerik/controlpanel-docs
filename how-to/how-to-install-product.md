@@ -24,11 +24,11 @@ Before installing a product, verify its installation state by navigating to the 
 
 ## Verifying the Available Licenses 
  
-The product license is displayed next to the installation state and can be either of the following: 
+The product license is shown next to the installation status and can be one of these: 
 
-* **PURCHASED**—A product for which you've purchased a license.
-* **TRIAL**—A product with an activated trial license.
-* **FREE**—A product that is free to use.
+* **PURCHASED**—You have bought a license for this product.
+* **TRIAL**—This product has an activated trial license.
+* **FREE**—This product is free to use.
 
 ## Checking the Prerequisites
 
