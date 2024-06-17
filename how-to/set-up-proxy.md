@@ -1,34 +1,32 @@
 ---
-title: Setting up Proxy
-page_title: Setting up Proxy - Telerik Control Panel
-description: How to set up proxy with the Telerik Control Panel.
+title: Setting Up a Proxy
+page_title: Setting Up a Proxy - Telerik Control Panel
+description: Learn how to set up a proxy used for the installation of Telerik and Kendo UI tools when working with the Telerik Control Panel.
 slug: how-to-set-up-proxy
 tags: controlpanel, proxy, setup
 published: True
 position: 8 
 ---
 
-# Setting up Proxy
+# Setting Up a Proxy
 
-The Progress Control Panel requires a working internet connection. If you need to set up proxy to connect to the internet, you need to open the Options menu.
+The Progress Control Panel requires a working internet connection. If you need to set up proxy to connect to the internet, go to the **Options** menu.
 
 ![Options Menu](images/options-menu.png)
 
-In the Options dialog, the default proxy settings are displayed in the PROXY SETTINGS section. By default, the installer uses the system proxy settings.
+In the **Options** dialog, the default proxy settings are displayed in the **PROXY SETTINGS** section. By default, the installer uses the system proxy settings.
 
 ![Proxy Settings](images/proxy-settings.png)
 
-The default behavior could be changed by unchecking the **USE INTERNET EXPLORER PROXY SETTINGS** checkbox. After doing so, you will be requested to add the proxy settings manually.
-In order to change the default proxy settings, uncheck the USE INTERNET EXPLORER PROXY SETTINGS checkbox and the proxy details section will appear. The PROXY ADDRESS and PORT fields are required if you choose to enter proxy settings manually.
+To set up a custom proxy, uncheck the **USE INTERNET EXPLORER PROXY SETTINGS** checkbox and add the proxy settings manually. The **PROXY ADDRESS** and **PORT** fields are required.
 
 ![Proxy Address](images/proxy-address.png)
 
-In case the proxy requires authentication, the **REQUIRES AUTHENTICATION** checkbox must be checked and the credential section will appear.
-The USERNAME field is required if the authentication option is enabled. You can restore the default proxy settings any time by selecting the RESET option on the right.
+If the proxy server requires authentication, select the **REQUIRES AUTHENTICATION** checkbox then enter the credentials (the **USERNAME** field is required).
+
+To restore the default proxy settings, select **RESET**.
 
 ![Proxy Authentication](images/proxy-authentication.png)
-
-The default proxy settings can be set back any time by clicking RESET.
 
 ## See Also
 
