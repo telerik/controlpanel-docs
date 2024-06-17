@@ -113,6 +113,7 @@ and the total operation count. -->
 
 ## See Also
 
+* [Installation Troubleshooting]({%slug how-to-installation-troubleshooting%})
 * [Telerik Control Panel Forum](https://www.telerik.com/forums/telerik-control-panel)
 * [Progress® Telerik® Control Panel Feedback Portal](https://feedback.telerik.com/controlpanel) 
 * [Essential support](http://www.telerik.com/support) 
