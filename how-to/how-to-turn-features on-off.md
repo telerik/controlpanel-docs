@@ -5,7 +5,7 @@ description: How to turn features on/off with the Telerik Control Panel.
 slug: how-to-turn-features-on-off
 tags: controlpanel, turn off, turn on, features, product
 published: True
-position: 3 
+position: 2 
 ---
 
 # Turning Features On/Off

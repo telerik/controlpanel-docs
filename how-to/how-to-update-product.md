@@ -5,7 +5,7 @@ description: Install and update your favorite Telerik products with the Telerik 
 slug: controlpanel-how-to-update-product
 tags: controlpanel, update, product
 published: True
-position: 2 
+position: 4 
 ---
 
 # Updating Telerik Products

@@ -1,14 +1,14 @@
 ---
 title: Connection Problem Message
 page_title: Connection Problem Message - Telerik Control Panel
-description: How to hanel Connection Problem Message with the Telerik Control Panel.
+description: How to hanel Connection Problem Message with the Telerik Control Panel
 slug: connection-problem
 tags: controlpanel, connection, problem
 published: True
 position: 12 
 ---
 
-# connection problem message
+# Connection Problem Message
 
 The Connection Problem screen pops up every time the installer hits a connectivity problem.
 

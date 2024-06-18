@@ -1,14 +1,14 @@
 ---
-title: Changing the Progress Control Panel's Default Installation Location
-page_title: How to change the Progress Control Panel default installation location - Telerik Control Panel
+title: Changing the Default Installation Location
+page_title: Changing the Default Installation Location - Telerik Control Panel
 description: Changing the Progress Control Panel's Default Installation Location with the Telerik Control Panel
 slug: how-to-change-installation-location
 tags: controlpanel, change, install, location
 published: True
-position: 9 
+position: 10 
 ---
 
-# Changing the Progress Control Panel Default Installation Location
+# Changing the Default Installation Location
 
 The Progress Control Panel's default install location is [ProgramFilesDir]\Progress. To change this, you should open the Options menu as shown below.
 
