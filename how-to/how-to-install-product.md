@@ -26,7 +26,7 @@ Before installing a product, verify its installation state by navigating to the 
  
 The product license is shown next to the installation status and can be one of these: 
 
-* **PURCHASED**—You have bought a license for this product.
+* **PURCHASED**—You have purchased a license for this product.
 * **TRIAL**—This product has an activated trial license.
 * **FREE**—This product is free to use.
 
