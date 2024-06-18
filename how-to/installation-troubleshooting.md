@@ -1,6 +1,6 @@
 ---
 title: Installation Troubleshooting
-page_title: Installing Telerik Products - Telerik Control Panel
+page_title: Installation Troubleshooting - Telerik Control Panel
 description: Install and update your favorite Telerik products with the Telerik Control Panel.
 slug: how-to-installation-troubleshooting
 tags: controlpanel, install, product
@@ -10,15 +10,16 @@ position: 3
 
 ## Installation Troubleshooting
 
-In case you have any failed installations, you will see an error summary screen which describes the failed
-installations.
+In case any product installations fail, you will see an error summary screen that describes the failed installations.
 
 ![Installation Troubleshooting Telerik Control Panel](images/installation-troubleshooting-telerik-control-panel.png)
 
-In the left corner you will see the ‘TROUBLESHOOT PROBLEMS’ link. Click the link in order to get detailed information regarding the reason for the failure of each installation.
+At the bottom, you can select the following options:
 
-Additionally, you have the opportunity to send an error report by checking the ‘Send Error Report’ checkbox before closing this screen. To preview the content of the reports you would send, click the ‘PREVIEW ERROR REPORT’ link. Sending an error report will increase your chance to receive faster and more accurate answer in case you contact our support team and will help us in maintaining our products and solutions, so we can provide the top quality you expect.
+* A **TROUBLESHOOT PROBLEMS** link&mdash;Click the link to get detailed information regarding the reason for the failure of each installation.
+* A **Send Error Report** checkbox&mdash;Sends an error report upon closing the dialog.
+* A **PREVIEW ERROR REPORT** link&mdash;Displays the content of the report that will be sent. Sending an error report helps you receive faster and more accurate answers when contacting the Telerik support team, and helps the developers maintain the high quality you expect.
+
+Clicking the **TROUBLESHOOT PROBLEMS** link opens the **Installation Troubleshooting** dialog, showing a failed installations list. You can select a product on the left and check the reason for the failure and a possible solution on the right side of the window.
 
 ![Details Troubleshooting Telerik Control Panel](images/details-troubleshooting-telerik-control-panel.png)
-
-In the ‘Installation Troubleshooting’ dialog a list of the failed installation is present. You can select a product on the left and check the reason for the failure and a possible solution on the right side of the window.
