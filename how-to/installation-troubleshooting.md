@@ -1,5 +1,5 @@
 ---
-title: Installing Telerik Products
+title: Installation Troubleshooting
 page_title: Installing Telerik Products - Telerik Control Panel
 description: Install and update your favorite Telerik products with the Telerik Control Panel.
 slug: how-to-installation-troubleshooting
