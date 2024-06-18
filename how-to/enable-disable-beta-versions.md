@@ -5,7 +5,7 @@ description: Enabling or Disabling Product's Beta Versions with the Telerik Cont
 slug: how-to-enable-disable-beta-versions
 tags: controlpanel, enable, disable, beta
 published: True
-position: 11 
+position: 7 
 ---
 
 # Enabling or Disabling Product's Beta Versions

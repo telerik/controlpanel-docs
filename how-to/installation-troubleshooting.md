@@ -5,7 +5,7 @@ description: Install and update your favorite Telerik products with the Telerik 
 slug: how-to-installation-troubleshooting
 tags: controlpanel, install, product
 published: True
-position: 1 
+position: 3 
 ---
 
 ## Installation Troubleshooting

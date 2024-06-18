@@ -5,7 +5,7 @@ description: Deleting the Progress Control Panel's installer packages cache? wit
 slug: how-to-clear-cache
 tags: controlpanel, clear, cache
 published: True
-position: 7 
+position: 11 
 ---
 
 # Deleting the Progress Control Panel installer packages cache?

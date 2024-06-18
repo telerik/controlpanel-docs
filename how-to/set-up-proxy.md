@@ -5,7 +5,7 @@ description: Learn how to set up a proxy used for the installation of Telerik an
 slug: how-to-set-up-proxy
 tags: controlpanel, proxy, setup
 published: True
-position: 8 
+position: 13 
 ---
 
 # Setting Up a Proxy

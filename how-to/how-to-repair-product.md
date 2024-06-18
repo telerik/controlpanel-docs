@@ -5,7 +5,7 @@ description: Repairing Telerik Products with the Telerik Control Panel.
 slug: how-to-repair-product
 tags: controlpanel, repair, product
 published: True
-position: 4 
+position: 5 
 ---
 
 # Repairing Telerik Products
