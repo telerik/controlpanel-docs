@@ -1,5 +1,5 @@
 ---
-title: Deleting the Progress Control Panel's installer packages cache
+title: Deleting the installer packages cache
 page_title: How to delete the Progress Control Panel installer packages cache - Telerik Control Panel
 description: Deleting the Progress Control Panel's installer packages cache? with the Telerik Control Panel
 slug: how-to-clear-cache
