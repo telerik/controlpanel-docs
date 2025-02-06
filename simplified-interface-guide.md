@@ -54,12 +54,27 @@ To see more information about a specific product or tool, click the tile with th
 
 ## View Subscriptions
 
-The Subscriptions view reminds you about licenses that need renewal. The information is displayed only for those licenses that are about to expire in 15 months or that have expired in the last 15 months:
+The Subscriptions view shows you the license key status and remind you about licenses that need renewal.
+
+Starting with the Q1 2025 release, Telerik and Kendo UI components require activation via a license key (trial or commercial). Both perpetual and subscription customers will have to add licensing files to their application.
+The license key file stored on the machine represents a snapshot of your licenses. License key is stored under %APPDATA%/Telerik/telerik-license.key.
+Without a valid license key, you may encounter limited functionality (e.g., watermarks), build or runtime errors, or messages indicating an unlicensed product.
+The Control Panel automatically download and manage your license key.  You can to easily check the validity of your licenses and expiration date of your license key.
+
+The license key available statutes are:
+Valid - You have a valid license for all Telerik and Kendo UI products
+Invalid - The license key file is corrupted
+All licenses has expired - The licenses for all products are expired
+Some of the licenses have expired - The licenses for some of the products are expired
+
+![Subscriptions View Telerik Control Panel](images/subscriptions-license-key-valid.png)
+
+![Subscriptions View Telerik Control Panel](images/subscriptions-license-key-expired.png)
+
+The information is displayed only for those licenses that are about to expire in 15 months or that have expired in the last 15 months:
 
 * If all your licenses are valid and not expiring soon, the subscription tile will not be displayed on the [main view](#welcome-screen-and-main-view) of the Control Panel.
 * If you have licenses that are about to expire in 15 months or have already expired, the Subscriptions view is available and displays the licenses that you can renew.
-
-![Subscriptions View Telerik Control Panel](images/subscriptions-view-telerik-control-panel.png)
 
 For more information, see the [License Renewals](https://www.telerik.com/purchase/license-renewals) page.
 
