@@ -18,7 +18,7 @@ The main view of the Control Panel is the starting point that lets you navigate 
 
 * **Telerik & Kendo UI Tools**—Shows all products available for installation or update. This view loads automatically if you have no expiring or recently expired subscriptions that require attention.
 
-* **View all subscriptions**—Presents the subscriptions that expire in less than a year or that have expired less than a year ago.
+* **View all subscriptions**—Presents the license key status and subscriptions that expire in less than a year or that have expired less than a year ago.
 
 ![Subscriptions Telerik Control Panel](images/subscriptions-telerik-control-panel.png)
 
@@ -56,22 +56,52 @@ To see more information about a specific product or tool, click the tile with th
 
 The Subscriptions view shows you the license key status and remind you about licenses that need renewal.
 
-Starting with the Q1 2025 release, Telerik and Kendo UI components require activation via a license key (trial or commercial). Both perpetual and subscription customers will have to add licensing files to their application.
-The license key file stored on the machine represents a snapshot of your licenses. License key is stored under %APPDATA%/Telerik/telerik-license.key.
-Without a valid license key, you may encounter limited functionality (e.g., watermarks), build or runtime errors, or messages indicating an unlicensed product.
-The Control Panel automatically download and manage your license key.  You can to easily check the validity of your licenses and expiration date of your license key.
-
-The license key available statutes are:
-Valid - You have a valid license for all Telerik and Kendo UI products
-Invalid - The license key file is corrupted
-All licenses has expired - The licenses for all products are expired
-Some of the licenses have expired - The licenses for some of the products are expired
+Starting with the Q1 2025 release, all Telerik and Kendo UI components will require activation using a license key (trial or commercial).
 
 ![Subscriptions View Telerik Control Panel](images/subscriptions-license-key-valid.png)
 
-![Subscriptions View Telerik Control Panel](images/subscriptions-license-key-expired.png)
+### Licensing Requirements
+**Who needs a license key?**
 
-The information is displayed only for those licenses that are about to expire in 15 months or that have expired in the last 15 months:
+Both perpetual and subscription customers must add a license key file to their applications.
+
+**How does it work?**
+
+The stored license key acts as a snapshot of your licenses, making it available to all Telerik and Kendo UI applications on your local machine.
+You need a single license key file, which authorizes your access to all the Telerik and Kendo UI products included in the DevCraft bundle.
+
+**Impact of Missing or Expired License Key**
+
+If a valid license key is not found, you may experience:
+
+* Limited functionality, such as watermarks.
+* Build or runtime errors.
+* Unlicensed product messages.
+
+**When Do You Need a New License Key?**
+
+You must obtain a new license key when you:
+
+* Purchase or renew a new Telerik license.
+* Start a new trial.
+
+**Where is the license key stored?**
+
+The license key file is saved on your Windows machine at: %APPDATA%/Telerik/telerik-license.key
+
+### Managing Your License Key
+The Telerik Control Panel automatically downloads and manages your license key. You can use it to check the validity and expiration date of your licenses.
+
+**License Key Statuses**
+
+Your license key can have one of the following statuses:
+
+* **Valid** – You have a valid license for all Telerik and Kendo UI products.
+* **Invalid** – The license key file is corrupted.
+* **All Licenses Expired** – The licenses for all products have expired.
+* **Some Licenses Expired** – The licenses for some products have expired.
+
+The information about licenses that need renewal is displayed only for those that are about to expire in 15 months or that have expired in the last 15 months:
 
 * If all your licenses are valid and not expiring soon, the subscription tile will not be displayed on the [main view](#welcome-screen-and-main-view) of the Control Panel.
 * If you have licenses that are about to expire in 15 months or have already expired, the Subscriptions view is available and displays the licenses that you can renew.
