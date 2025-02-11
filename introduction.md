@@ -10,7 +10,7 @@ position: 0
 
 # Welcome to Progress Control Panel
 
-Progress Control Panel is a standalone desktop application for Windows that enables developers to install, monitor, and manage their Telerik products.
+Progress Control Panel is a standalone desktop application for Windows that enables developers to install, monitor, and manage their Telerik products and license key. It requires authentication with a Telerik account.
 
 ![Progress Control Panel](images/telerik-control-panel-introduction.png)
 
@@ -20,7 +20,7 @@ Progress Control Panel is a standalone desktop application for Windows that enab
 
 * Update installed Telerik products
 
-* View your Telerik licenses
+* Manage licenses
 
 ## Supported Products
 
