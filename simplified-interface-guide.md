@@ -18,7 +18,7 @@ The main view of the Control Panel is the starting point that lets you navigate 
 
 * **Telerik & Kendo UI Tools**—Shows all products available for installation or update. This view loads automatically if you have no expiring or recently expired subscriptions that require attention.
 
-* **View all subscriptions**—Presents the license key status and subscriptions that expire in less than a year or that have expired less than a year ago.
+* **View all subscriptions**—Presents the license key status and subscriptions that will expire in less than 15 months or that have expired less than 15 months ago.
 
 ![Subscriptions Telerik Control Panel](images/subscriptions-telerik-control-panel.png)
 
@@ -56,41 +56,41 @@ To see more information about a specific product or tool, click the tile with th
 
 The Subscriptions view shows you the license key status and remind you about licenses that need renewal.
 
-Starting with the Q1 2025 release, all Telerik and Kendo UI components will require activation using a license key (trial or commercial).
+Starting with the Q1 2025 release, all Telerik and Kendo UI components will require activation with a license key (trial or commercial).
 
 ![Subscriptions View Telerik Control Panel](images/subscriptions-license-key-valid.png)
 
 ### Licensing Requirements
 **Who needs a license key?**
 
-Both perpetual and subscription customers must add a license key file to their applications.
+Both perpetual and subscription customers have to add a license key file to their applications.
 
 **How does it work?**
 
-The stored license key acts as a snapshot of your licenses, making it available to all Telerik and Kendo UI applications on your local machine.
+The stored license key acts as a snapshot of your licenses. A single license key file is required to authorize the access to all the Telerik and Kendo UI products.
 You need a single license key file, which authorizes your access to all the Telerik and Kendo UI products included in the DevCraft bundle.
 
-**Impact of Missing or Expired License Key**
+**Missing or Expired License Key**
 
 If a valid license key is not found, you may experience:
 
 * Limited functionality, such as watermarks.
 * Build or runtime errors.
-* Unlicensed product messages.
+* Messages for unlicensed product.
 
 **When Do You Need a New License Key?**
 
-You must obtain a new license key when you:
+You have to obtain a new license key when you:
 
 * Purchase or renew a new Telerik license.
 * Start a new trial.
 
 **Where is the license key stored?**
 
-The license key file is saved on your Windows machine at: %APPDATA%/Telerik/telerik-license.key
+The license key file is sastored on your Windows machine in: %APPDATA%/Telerik/telerik-license.key
 
 ### Managing Your License Key
-The Telerik Control Panel automatically downloads and manages your license key. You can use it to check the validity and expiration date of your licenses.
+The Progress Control Panel automatically downloads your license key. You can use it to check the validity and the expiration date of your licenses.
 
 **License Key Statuses**
 
