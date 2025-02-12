@@ -103,7 +103,7 @@ Your license key can have one of the following statuses:
 
 The information about licenses that need renewal is displayed only for those that are about to expire in 15 months or that have expired in the last 15 months:
 
-* If all your licenses are valid and not expiring soon, the subscription tile will not be displayed on the [main view](#welcome-screen-and-main-view) of the Control Panel.
+* If all your licenses are valid and not expiring soon, the subscription tile will not be displayed on the [main view](#Main-view) of the Control Panel.
 * If you have licenses that are about to expire in 15 months or have already expired, the Subscriptions view is available and displays the licenses that you can renew.
 
 For more information, see the [License Renewals](https://www.telerik.com/purchase/license-renewals) page.
