@@ -8,6 +8,7 @@ published: True
 position: 4 
 ---
 
+# Contacts and Feedback
 ## Contacts
 
 You can find the Progress team contacts by clicking on the contacts button in the top right corner of the application.
