@@ -8,7 +8,7 @@ published: True
 position: 3 
 ---
 
-## Installation Troubleshooting
+# Installation Troubleshooting
 
 In case any product installations fail, you will see an error summary screen that describes the failed installations.
 
