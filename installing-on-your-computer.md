@@ -24,7 +24,7 @@ The Progress Control Panel serves as a dashboard application that lets you manag
 
 ## Installing and Updating Telerik Products
 
-1. Log in&mdash;The Control Panel requires you to log in so it can list all products associated with your user account. Make sure that you activate your account before trying to log in.
+1. Log in&mdash;The Control Panel requires you to log in through the Telerik login page, where you can use an existing account or create a new one. If your account has Single Sign-On (SSO) enabled, you can also authenticate with the identity provider (IdP) of your organization.
 
    ![Log in Progress Control Panel](images/login-telerik-control-panel.png)
 
