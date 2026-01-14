@@ -24,9 +24,7 @@ To set up a custom proxy, uncheck the **USE INTERNET EXPLORER PROXY SETTINGS** c
 
 If the proxy server requires authentication, select the **REQUIRES AUTHENTICATION** checkbox then enter the credentials (the **USERNAME** field is required).
 
-To restore the default proxy settings, select **RESET**.
-
-![Proxy Authentication](images/proxy-authentication.png)
+To restore the default proxy settings, select **RESET**. 
 
 ## See Also
 
