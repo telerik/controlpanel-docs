@@ -1,0 +1,46 @@
+top-navigation-product: devcraft
+path-prefix: /control-panel/documentation
+default-title-prefix: control-panel
+
+primary-color: "#27A306"
+product-id: 972
+product-code: CP
+product-name: Progress Telerik Control Panel
+product-url: https://www.telerik.com
+product-trial-url: https://www.telerik.com/try/devcraft-ultimate
+contribute-url: https://github.com/telerik/controlpanel-docs/edit/master  
+search-engine-id: 47b2bdc9d347d46aa
+avatar-path: ./images/avatar-ninja.svg
+no-results-image-path: ./images/ninja-no-results.svg
+enable-tabbed-code-blocks: true
+pdf-cover-png-path: ./images/pdf-cover.png
+img-max-width: 100%
+table-layout: fixed
+gitLastCommitDateEnabled: true
+
+cta-overview: The @Subject is a standalone desktop application for Windows that enables developers to install, monitor, and manage their Telerik products and license key.
+cta-intro: "Progress Control Panel is a standalone desktop application for Windows that enables developers to install, monitor, and manage their Telerik products and license key. It requires authentication with a Telerik account."
+
+# liquid variables
+liquid-output-delimiter-left: "{{"
+liquid-output-delimiter-right: "}}"
+liquid: {}
+
+excluded-files:
+- "**/README.md"
+- "**/copyright.md"
+
+meta:
+  how-to:
+    title: How-To
+    position: 3
+
+
+redirects: 
+- from: "^/?$"
+  to: "/introduction"
+  type: Permanent
+
+
+
+
