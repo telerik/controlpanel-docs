@@ -1,6 +1,7 @@
 top-navigation-product: devcraft
 path-prefix: /control-panel/documentation
 default-title-prefix: control-panel
+cta-insert-automatically: false
 
 primary-color: "#27A306"
 product-id: 972
